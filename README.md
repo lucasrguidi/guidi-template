@@ -93,7 +93,3 @@ Os hooks estão configurados da seguinte forma:
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT.
-
-```
-
-```
