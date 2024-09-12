@@ -80,6 +80,7 @@ Os hooks estão configurados da seguinte forma:
 ├── .prettierrc.json # Configuração do Prettier
 ├── husky          # Configuração do Husky para hooks de Git
 └── tsconfig.json   # Configuração do TypeScript
+```
 
 ## Como Contribuir
 
@@ -92,4 +93,7 @@ Os hooks estão configurados da seguinte forma:
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT.
+
+```
+
 ```
